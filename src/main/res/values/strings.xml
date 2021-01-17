@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart Hospital</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Smart Hospital</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_url">http://18.217.134.113/</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Add Patient</string>
+    <string name="menu_slideshow">Update Patient Info</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_admin_drawer">admin_drawer</string>
+    <string name="title_activity_admin_main">admin_main</string>
+    <string name="card1">Home</string>
+</resources>
